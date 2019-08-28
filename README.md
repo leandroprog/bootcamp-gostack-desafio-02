@@ -1,3 +1,17 @@
+# Desafio 02. Iniciando aplicação
+
+Crie uma aplicação do zero utilizando Express.
+
+Nessa aplicação configure as seguintes ferramentas:
+
+- Sucrase + Nodemon;
+- ESLint + Prettier + EditorConfig;
+- Sequelize (Utilize PostgresSQL ou MySQL);
+
+Durante esse desafio você dará início a um novo projeto no Bootcamp, esse projeto será desenvolvido aos poucos até o fim da sua jornada onde você terá uma aplicação completa envolvendo back-end, front-end e mobile.
+
+Esse projeto também será utilizado para a certificação do bootcamp, então bora pro código!
+
 ## Aplicação
 
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app agregador de eventos para desenvolvedores chamado Meetapp (um acrônimo à Meetup + App).
